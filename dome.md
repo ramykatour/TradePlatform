@@ -1,4 +1,4 @@
-# Swift xNova Exchange — Backend Features
+# Swift Exchange — Backend Features
 
 - **Auth** — Register, Login, JWT, Refresh Tokens, Email Verification, Reset Password ✅
 - **Wallet** — Balance, Transaction History, Credit/Debit with DB locking ✅
